@@ -104,4 +104,8 @@ Here are some of the tools I've been working with :
 
 -------------------------
 
+## Summaries and Widgets
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aanorlondo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aanorlondo&theme=github-compact&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
