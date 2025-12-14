@@ -101,3 +101,7 @@ Here are some of the tools I've been working with :
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+
+-------------------------
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aanorlondo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
