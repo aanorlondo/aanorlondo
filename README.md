@@ -1,6 +1,3 @@
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aanorlondo&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=darcula)        [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aanorlondo&layout=compact&langs_count=20&hide_values=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=aanorlondo&layout=compact&langs_count=20&hide_values=true&theme=gruvbox)
-
 ## Hi there 👋
 
 My name is `Khaled` and I'm a Cloud Architect.
@@ -105,6 +102,7 @@ Here are some of the tools I've been working with :
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aanorlondo&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=darcula)        [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aanorlondo&layout=compact&langs_count=20&hide_values=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=aanorlondo&layout=compact&langs_count=20&hide_values=true&theme=gruvbox)
 
 -------------------------
 
